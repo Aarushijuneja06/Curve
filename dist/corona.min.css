@@ -1,0 +1,481 @@
+.Main___CiJZ8 {
+  padding: 1.5rem;
+}
+.Main___CiJZ8 > h1 {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+.Main___CiJZ8 .selector___1Ku-G {
+  font-size: 14px;
+  margin-bottom: 2rem;
+}
+.Main___CiJZ8 .selector___1Ku-G .item-renderer input[type='checkbox'] {
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+.Main___CiJZ8.medium___1mc0k {
+  padding: 2rem 2.5rem;
+}
+.Main___CiJZ8.medium___1mc0k > h1 {
+  font-size: 32px;
+}
+.label___2OkCC {
+  font-size: 14px;
+  font-weight: bold;
+}
+.footer___3FPB- {
+  padding: 2rem;
+  text-align: center;
+}
+.footer___3FPB- p {
+  font-size: 12px;
+}
+.notes___2ZLJI {
+  font-size: 13px;
+  padding: 0.5rem 1.5rem;
+  background: #eee;
+}
+.title___2Qip2 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.LineWrapper___UBC9u {
+  position: relative;
+  padding: 0;
+}
+.LineWrapper___UBC9u h2 {
+  font-size: 18px;
+  margin: 0.5rem 0 0.75rem;
+}
+.LineWrapper___UBC9u.medium___3udI- {
+  padding: 1rem 0.5rem;
+}
+.LineWrapper___UBC9u.medium___3udI- .button____P_m6 {
+  position: absolute;
+  top: 1.5rem;
+  right: 15px;
+}
+.LineWrapper___UBC9u.medium___3udI- h2 {
+  margin: 1rem 0 1.5rem;
+}
+.LineWrapper___UBC9u.medium___3udI- .Controls___3wR61 .Field___19PvA {
+  display: inline-block;
+  margin-right: 1.5rem;
+  padding: 0 1rem;
+}
+.tooltip___1IRmm {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  background: #fff;
+}
+.Line___3WFPx {
+  height: 600px;
+}
+.Field___19PvA {
+  display: block;
+  max-width: 80%;
+  margin-bottom: 1.25rem;
+  padding: 0 0 0.5rem 0;
+}
+.Field___19PvA.last___1f5tW {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.Field___19PvA .label___2YjI5 {
+  font-size: 14px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.Field___19PvA .text___3h13Y {
+  font-size: 13px;
+  margin-left: 0.625rem;
+}
+.Field___19PvA input[type='number'] {
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 16px;
+  display: block;
+  flex: 1;
+  min-height: 40px;
+  padding-right: 0.5rem;
+  text-align: right;
+  border: 1px solid #ccc;
+}
+.Field___19PvA .range___2qhZj {
+  display: flex;
+  flex-direction: row;
+}
+.button____P_m6 {
+  font-size: 14px;
+  padding: 0.5rem 0.8rem;
+  color: #fff;
+  border: none;
+  background: #1494a5;
+  -webkit-appearance: none;
+}
+.button____P_m6 .buttonLabel___359_G {
+  margin-left: 0.5rem;
+}
+.Controls___3wR61 {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #eee;
+}
+
+.icon___1hhz_.withColor___39427 {
+  color: #666;
+}
+.icon___1hhz_.withColor___39427.highlight___1gZ4r {
+  color: #3da69c;
+}
+.icon___1hhz_.withColor___39427.highlight___1gZ4r svg {
+  fill: #3da69c;
+}
+.icon___1hhz_.withColor___39427 svg {
+  fill: #666;
+}
+.icon___1hhz_.withColor___39427.disabled___1iGTV svg {
+  fill: rgba(102, 102, 102, 0.5);
+}
+.icon___1hhz_.withColor___39427.lighterForeground___3Rbdo svg {
+  fill: #fff;
+}
+.icon___1hhz_.withColor___39427.lighterForeground___3Rbdo.disabled___1iGTV svg {
+  fill: rgba(255, 255, 255, 0.5);
+}
+.icon___1hhz_.withColor___39427.lighterForeground___3Rbdo {
+  color: #fff;
+}
+.icon___1hhz_.withColor___39427.lighterForeground___3Rbdo.disabled___1iGTV {
+  color: rgba(255, 255, 255, 0.5);
+}
+.icon___1hhz_.withColor___39427.disabled___1iGTV {
+  color: rgba(102, 102, 102, 0.5);
+}
+
+.countryInfo___4i0Qh {
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+  margin-top: 0.125rem;
+  margin-bottom: 0.125rem;
+}
+.pointInfo___2LdIY {
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 12px;
+  margin: 0;
+}
+.count___c80fF {
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 18px;
+  width: 100%;
+  margin: 0;
+  text-align: right;
+}
+.box___2aytZ {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 55px;
+}
+.countryBlock___1WTIG {
+  position: relative;
+  margin-bottom: 0.6rem;
+  padding-left: 19px;
+}
+.countryBlock___1WTIG.row___1U0px {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+}
+.countryBlock___1WTIG.row___1U0px .box___2aytZ {
+  position: relative;
+  top: unset;
+  left: unset;
+  width: 22px;
+  height: 22px;
+}
+.countryBlock___1WTIG.row___1U0px .block-1___3k5so {
+  position: relative;
+}
+.countryBlock___1WTIG.row___1U0px .block-3___Z_aCX {
+  margin-top: 0;
+  background: #eee;
+}
+.countryBlock___1WTIG.last___3fr2s {
+  margin-bottom: 0;
+}
+.countryBlock___1WTIG.last___3fr2s:after {
+  display: none;
+}
+.countryBlock___1WTIG:after {
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  content: ' ';
+  border-bottom: 1px dashed #ddd;
+}
+.block-1___3k5so {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  width: 35px;
+  height: 35px;
+  padding-left: 3px;
+}
+.block-2___HQCYB {
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  padding-right: 0.825rem;
+}
+.block-3___Z_aCX {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  min-width: 50px;
+  margin-top: 5px;
+  padding-right: 0.425rem;
+  padding-left: 0.825rem;
+}
+
+/*! modern-normalize v0.6.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
+/*
+Document
+========
+*/
+/**
+Use a better box model (opinionated).
+*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+/**
+Use a more readable tab size (opinionated).
+*/
+:root {
+  tab-size: 4;
+}
+/**
+1. Correct the line height in all browsers.
+2. Prevent adjustments of font size after orientation changes in iOS.
+*/
+html {
+  line-height: 1.15;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+/*
+Sections
+========
+*/
+/**
+Remove the margin in all browsers.
+*/
+body {
+  margin: 0;
+}
+/**
+Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
+*/
+body {
+  font-family: 'Open Sans', system-ui, -apple-system, /* Firefox supports this but not yet `system-ui` */ 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+  font-weight: 400;
+}
+/*
+Grouping content
+================
+*/
+/**
+Add the correct height in Firefox.
+*/
+hr {
+  height: 0;
+}
+/*
+Text-level semantics
+====================
+*/
+/**
+Add the correct text decoration in Chrome, Edge, and Safari.
+*/
+abbr[title] {
+  text-decoration: underline dotted;
+}
+/**
+Add the correct font weight in Edge and Safari.
+*/
+b,
+strong {
+  font-weight: bolder;
+}
+/**
+1. Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)
+2. Correct the odd 'em' font sizing in all browsers.
+*/
+code,
+kbd,
+samp,
+pre {
+  font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */
+}
+/**
+Add the correct font size in all browsers.
+*/
+small {
+  font-size: 80%;
+}
+/**
+Prevent 'sub' and 'sup' elements from affecting the line height in all browsers.
+*/
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
+}
+/*
+Forms
+=====
+*/
+/**
+1. Change the font styles in all browsers.
+2. Remove the margin in Firefox and Safari.
+*/
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 1 */
+  line-height: 1.15;
+  /* 1 */
+  margin: 0;
+  /* 2 */
+}
+/**
+Remove the inheritance of text transform in Edge and Firefox.
+1. Remove the inheritance of text transform in Firefox.
+*/
+button,
+select {
+  /* 1 */
+  text-transform: none;
+}
+/**
+Correct the inability to style clickable types in iOS and Safari.
+*/
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+  -webkit-appearance: button;
+}
+/**
+Remove the inner border and padding in Firefox.
+*/
+button::-moz-focus-inner,
+[type='button']::-moz-focus-inner,
+[type='reset']::-moz-focus-inner,
+[type='submit']::-moz-focus-inner {
+  padding: 0;
+  border-style: none;
+}
+/**
+Restore the focus styles unset by the previous rule.
+*/
+button:-moz-focusring,
+[type='button']:-moz-focusring,
+[type='reset']:-moz-focusring,
+[type='submit']:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+/**
+Correct the padding in Firefox.
+*/
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+/**
+Remove the padding so developers are not caught out when they zero out 'fieldset' elements in all browsers.
+*/
+legend {
+  padding: 0;
+}
+/**
+Add the correct vertical alignment in Chrome and Firefox.
+*/
+progress {
+  vertical-align: baseline;
+}
+/**
+Correct the cursor style of increment and decrement buttons in Safari.
+*/
+[type='number']::-webkit-inner-spin-button,
+[type='number']::-webkit-outer-spin-button {
+  height: auto;
+}
+/**
+1. Correct the odd appearance in Chrome and Safari.
+2. Correct the outline style in Safari.
+*/
+[type='search'] {
+  outline-offset: -2px;
+  /* 2 */
+  -webkit-appearance: textfield;
+  /* 1 */
+}
+/**
+Remove the inner padding in Chrome and Safari on macOS.
+*/
+[type='search']::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+/**
+1. Correct the inability to style clickable types in iOS and Safari.
+2. Change font properties to 'inherit' in Safari.
+*/
+::-webkit-file-upload-button {
+  font: inherit;
+  /* 2 */
+  -webkit-appearance: button;
+  /* 1 */
+}
+/*
+Interactive
+===========
+*/
+/*
+Add the correct display in Chrome and Safari.
+*/
+summary {
+  display: list-item;
+}
+
+
+/*# sourceMappingURL=corona.min.css.map*/
